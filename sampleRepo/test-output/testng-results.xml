@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-02T22:50:11 GMT-08:00" name="Default suite" finished-at="2023-03-02T22:50:29 GMT-08:00" duration-ms="17941">
+    <groups>
+    </groups>
+    <test started-at="2023-03-02T22:50:11 GMT-08:00" name="Default test" finished-at="2023-03-02T22:50:29 GMT-08:00" duration-ms="17941">
+      <class name="com.ds.testbase.TestBase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ds.testbase.TestBase@dbf57b3]" started-at="2023-03-02T22:50:11 GMT-08:00" name="setup" finished-at="2023-03-02T22:50:27 GMT-08:00" duration-ms="15322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:com.ds.testbase.TestBase@dbf57b3]" started-at="2023-03-02T22:50:27 GMT-08:00" name="test" finished-at="2023-03-02T22:50:27 GMT-08:00" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ds.testbase.TestBase@dbf57b3]" started-at="2023-03-02T22:50:27 GMT-08:00" name="tearDown" finished-at="2023-03-02T22:50:29 GMT-08:00" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ds.testbase.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
