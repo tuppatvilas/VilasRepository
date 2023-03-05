@@ -28,7 +28,7 @@ public void setup()
 @Test
 public void test()
 {
-	System.out.println("working");
+	System.out.println("working testbase class");
 }
 
 @AfterMethod
